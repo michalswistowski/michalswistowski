@@ -4,19 +4,16 @@
 
 ##### 🖥️ Skills 
 - **Java**
-- **Docker**
-- **Scala**
-- **Sql**
 - **Python**
-- **C++**
+- **Docker**
+- **Sql(PostgreSQL/MySQL)**
+- **Spring**
+- **Angular**
+- **Kotlin**
+- **Android**
 - **React**
 - **Javascript/Typescript**
 - **MongoDB**
-
-##### 🌱 I’m currently learning 
-- **Spring**
-- **Kubernetes**
-- **Angular**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">michalswistowski2002@gmail.com
