@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Michał</h1>
-<h3 align="center">A third year Computer Science student at the University of Gdańsk</h3>
+<h3 align="center">A Computer Science graduate at the University of Gdańsk</h3>
 
 
 ##### 🖥️ Skills 
